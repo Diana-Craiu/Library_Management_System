@@ -1,0 +1,32 @@
+D:\Facultate\IP\Proiect_IP\Proiect_IP\bin\Release\Database.mdf
+D:\Facultate\IP\Proiect_IP\Proiect_IP\bin\Release\Database_log.ldf
+D:\Facultate\IP\Proiect_IP\Proiect_IP\bin\Release\Proiect_IP.pdb
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.csproj.AssemblyReference.cache
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Abonati.resources
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Administrator.resources
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Biblio.resources
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Forms.ContAngajati.resources
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Inregistrare.resources
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Properties.Resources.resources
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Status.resources
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.csproj.GenerateResource.cache
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.csproj.CoreCompileInputs.cache
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.pdb
+D:\Facultate\IP\Proiect_IP\Proiect_IP\bin\Release\Proiect_IP.exe
+D:\Facultate\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.exe
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\bin\Release\Database.mdf
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\bin\Release\Database_log.ldf
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\bin\Release\Proiect_IP.pdb
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Abonati.resources
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Administrator.resources
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Biblio.resources
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Forms.ContAngajati.resources
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Inregistrare.resources
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Properties.Resources.resources
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.Status.resources
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.csproj.GenerateResource.cache
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.pdb
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\bin\Release\Proiect_IP.exe
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.exe
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\Proiect_IP\obj\Release\Proiect_IP.csproj.AssemblyReference.cache

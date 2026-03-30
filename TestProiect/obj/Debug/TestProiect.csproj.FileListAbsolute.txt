@@ -1,0 +1,36 @@
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\Database.mdf
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\Database_log.ldf
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\TestProiect.dll
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\TestProiect.pdb
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\Proiect_IP.pdb
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Facultate\IP\Proiect_IP\TestProiect\obj\Debug\TestProiect.csproj.AssemblyReference.cache
+D:\Facultate\IP\Proiect_IP\TestProiect\obj\Debug\TestProiect.csproj.CoreCompileInputs.cache
+D:\Facultate\IP\Proiect_IP\TestProiect\obj\Debug\TestProiect.csproj.CopyComplete
+D:\Facultate\IP\Proiect_IP\TestProiect\obj\Debug\TestProiect.dll
+D:\Facultate\IP\Proiect_IP\TestProiect\obj\Debug\TestProiect.pdb
+D:\Facultate\IP\Proiect_IP\TestProiect\bin\Debug\Proiect_IP.dll
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\Database.mdf
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\Database_log.ldf
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\TestProiect.dll
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\TestProiect.pdb
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\Proiect_IP.pdb
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\obj\Debug\TestProiect.csproj.AssemblyReference.cache
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\obj\Debug\TestProiect.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\obj\Debug\TestProiect.csproj.CopyComplete
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\obj\Debug\TestProiect.dll
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\obj\Debug\TestProiect.pdb
+D:\Facultate\Anul 3\Semestrul 2\IP\Proiect_IP\TestProiect\bin\Debug\Proiect_IP.dll

@@ -1,0 +1,11 @@
+admin	0DPiKuNIrrVmD8IUCuw1hQxNqZc=	1
+pu	8DqjUKTMEIhL2P06I5dcoOT+yDA=	0
+pr	VJjZuW7Sgy4EqQxKwqtx+Gmyv9w=	0
+co	h92iBBZknypqGwPU4T1IqAsaNX8=	0
+se	AHYsz6cDOT4Nr/gTpuzBn3zQJCE=	0
+st	mwLZl0wU5iPJ/77XNgvqy/DcuV8=	0
+prf	uJreQ6ygkv5N0Bn7zWGnYPVqJCM=	0
+bibl	qg+0czl7Lpt7MQ/JK16a7a6w0Ug=	0
+admin2	MV8WbFrKY6FX99QQB2dctEqUizM=	1
+admin3	M6qzx/AWIMreEI9IjP0oXA5iwew=	1
+bib	Qo6lqx2xmNG7EwwNnKvbvA2B3tk=	0
